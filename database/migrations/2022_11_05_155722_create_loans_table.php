@@ -18,6 +18,7 @@ class CreateLoansTable extends Migration
             $table->timestamps();
             $table->string('fname');
             $table->string('lname');
+            $table->string('phone');
             $table->string('email');
             $table->string('country')->nullable();
             $table->string('address')->nullable();

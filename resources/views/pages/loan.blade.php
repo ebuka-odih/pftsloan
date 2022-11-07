@@ -18,9 +18,8 @@
 <body>
 <!-- Image and text -->
 <nav class="navbar navbar-light bg-light">
-    <a class="navbar-brand" href="#">
-        <img src="/docs/4.6/assets/brand/bootstrap-solid.svg" width="30" height="30" class="d-inline-block align-top" alt="">
-        Bootstrap
+    <a class="navbar-brand" href="{{ route('index') }}">
+        <img src="{{ asset('img/logo.png') }}" width="250" height="80" class="d-inline-block align-top" alt="">
     </a>
 </nav>
 
@@ -30,38 +29,32 @@
             Featured
         </div>
         <div class="card-body">
-            <form>
+            <form action="{{ route('store') }}" method="POST">
+                @csrf
                 <div class="form-row">
-                    <div class="form-group col-md-2">
-                        <label for="inputEmail4">Title</label>
-                        <select name="title" id="" class="form-control">
-                            <option value="Mr">Mr</option>
-                            <option value="Mrs">Mrs</option>
-                        </select>
-                    </div>
-                    <div class="form-group col-md-5">
+                    <div class="form-group col-md-6">
                         <label for="inputEmail4">First Name</label>
-                        <input type="text" class="form-control" id="inputEmail4">
+                        <input type="text" name="fname" class="form-control" >
                     </div>
-                    <div class="form-group col-md-5">
+                    <div class="form-group col-md-6">
                         <label for="inputPassword4">Last Name</label>
-                        <input type="text" class="form-control" id="inputPassword4">
+                        <input type="text" name="lname" class="form-control" >
                     </div>
                 </div>
                 <div class="form-row">
                     <div class="form-group col-md-6">
                         <label for="inputEmail4">Email</label>
-                        <input type="email" class="form-control" id="inputEmail4">
+                        <input type="email" name="email" class="form-control" id="inputEmail4">
                     </div>
                     <div class="form-group col-md-6">
                         <label for="inputPassword4">Phone</label>
-                        <input type="text" class="form-control" id="inputPassword4">
+                        <input type="text" name="phone" class="form-control" id="inputPassword4">
                     </div>
                 </div>
                 <div class="form-row">
                     <div class="form-group col-md-6">
                         <label for="inputEmail4">Country</label>
-                        <select name="" class="form-control" id="">
+                        <select name="country" class="form-control" id="">
                             <option value="Åland Islands">Åland Islands</option>
                             <option value="Albania">Albania</option>
                             <option value="Algeria">Algeria</option>
@@ -309,7 +302,7 @@
                     </div>
                     <div class="form-group col-md-6">
                         <label for="inputPassword4">Address</label>
-                        <input type="text" class="form-control" id="inputPassword4">
+                        <input type="text" name="address" class="form-control" id="inputPassword4">
                     </div>
                 </div>
 
