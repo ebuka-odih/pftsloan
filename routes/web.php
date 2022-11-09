@@ -14,5 +14,6 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::view('/', 'pages.index')->name('index');
+Route::view('/about-us', 'pages.about')->name('about');
 Route::get('apply/loan', "LoanController@loan")->name('loan');
 Route::post('apply/loan', "LoanController@store")->name('store');
