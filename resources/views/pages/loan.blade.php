@@ -11,7 +11,7 @@
     <title>Loan Form</title>
     <style>
         body{
-            background-color: #e66969;
+            background-color: rgb(254 152 119);
         }
     </style>
 </head>
