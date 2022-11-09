@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: What Does It Mean to Default on a Loan?	</title>
+	<atom:link href="https://creditnigeria.com/what-does-it-mean-to-default-on-a-loan/feed" rel="self" type="application/rss+xml" />
+	<link>https://creditnigeria.com/what-does-it-mean-to-default-on-a-loan</link>
+	<description>Find the Best Loan Offers in Nigeria</description>
+	<lastBuildDate>Mon, 31 Oct 2022 11:15:16 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+</channel>
+</rss>
+
+<!-- plugin=object-cache-pro client=phpredis metric#hits=15850 metric#misses=15 metric#hit-ratio=99.9 metric#bytes=665470 metric#prefetches=0 metric#store-reads=45 metric#store-writes=11 metric#store-hits=41 metric#store-misses=4 metric#sql-queries=11 metric#ms-total=314.31 metric#ms-cache=12.05 metric#ms-cache-median=0.10 metric#ms-cache-ratio=3.8 -->

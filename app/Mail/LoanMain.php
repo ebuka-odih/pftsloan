@@ -16,9 +16,10 @@ class LoanMain extends Mailable
      *
      * @return void
      */
-    public function __construct()
+    public $loan;
+    public function __construct($loan)
     {
-        //
+        $this->loan = $loan;
     }
 
     /**
