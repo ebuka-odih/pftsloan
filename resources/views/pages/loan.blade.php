@@ -26,11 +26,16 @@
 <div class="container mt-4">
     <div class="card">
         <div class="card-header">
-            Featured
+            Fill the form below
         </div>
         <div class="card-body">
             <form action="{{ route('store') }}" method="POST">
                 @csrf
+                @if(session()->has('success'))
+                    <div class="alert alert-success">
+                        {{ session()->get('success') }}
+                    </div>
+                @endif
                 <div class="form-row">
                     <div class="form-group col-md-6">
                         <label for="inputEmail4">First Name</label>

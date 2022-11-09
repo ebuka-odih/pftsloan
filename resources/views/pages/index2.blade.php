@@ -127,7 +127,9 @@
             <div class="vc_row wpb_row vc_row-fluid vc_custom_1656317583506 sc_layouts_row sc_layouts_row_type_compact sc_layouts_row_fixed"><div class="wpb_column vc_column_container vc_col-sm-3 sc_layouts_column sc_layouts_column_align_left sc_layouts_column_icons_position_left"><div class="vc_column-inner"><div class="wpb_wrapper">
                             <div class="sc_layouts_item">
                                 <a href="#" id="sc_layouts_logo_1295638403" class="sc_layouts_logo sc_layouts_logo_default">
-                                    <img class="logo_image" src="{{ asset('img/logo.png') }}" alt="" width="245" height="47"></a><!-- /.sc_layouts_logo -->
+
+                                    <img class="logo_image" src="{{ asset('img/logo.png') }}" alt="" width="245" height="47">
+                                </a><!-- /.sc_layouts_logo -->
                             </div>
                         </div>
                     </div>
@@ -171,7 +173,7 @@
                             <button type="submit" class="search_submit trx_addons_icon-search"></button>
                         </form>
                     </div>
-                </div><div class="socials_mobile"><span class="social_item"><a href="https://twitter.com/ThemerexThemes" target="_blank" class="social_icons social_twitter"><span class="trx_addons_icon-twitter"></span></a></span><span class="social_item"><a href="https://business.facebook.com/ThemeRexStudio/" target="_blank" class="social_icons social_facebook"><span class="trx_addons_icon-facebook"></span></a></span><span class="social_item"><a href="https://www.instagram.com/themerex_net/" target="_blank" class="social_icons social_instagram"><span class="trx_addons_icon-instagram"></span></a></span></div>	</div>
+                </div><div class="socials_mobile"><span class="social_item"><a href="" target="_blank" class="social_icons social_twitter"><span class="trx_addons_icon-twitter"></span></a></span><span class="social_item"><a href="https://business.facebook.com/ThemeRexStudio/" target="_blank" class="social_icons social_facebook"><span class="trx_addons_icon-facebook"></span></a></span><span class="social_item"><a href="https://www.instagram.com/themerex_net/" target="_blank" class="social_icons social_instagram"><span class="trx_addons_icon-instagram"></span></a></span></div>	</div>
         </div>
 
         <div class="page_content_wrap scheme_default">
