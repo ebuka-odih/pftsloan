@@ -1680,7 +1680,7 @@
                                                                 <p>It has become more common to apply for loans online. Even then, it can still be time-consuming and inefficient.</p>
                                                                 <p>pftsloan.com wants to ensure that borrowers always receive the most economically beneficial offer - <strong>safely, securely and for free!</strong>
                                                                 </p>
-                                                                <p>There are many lenders in Nigeria, and with PFTs Loan, you easily find the lenders you are eligible to get a loan from. Afterwards, all you need to do is compare and choose the best offer.</p>
+                                                                <p>There are many lenders, and with PFTs Loan, you easily find the lenders you are eligible to get a loan from. Afterwards, all you need to do is compare and choose the best offer.</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1769,7 +1769,7 @@
                                                             <img title="" alt="" data-eio="l" data-breeze="https://creditnigeria.com/wp-content/uploads/2021/08/wd-envelope-dark.svg" src="data:image/svg+xml;utf8,%3Csvg%20
 																																																																																														xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="br-lazy">
                                                         </noscript>
-                                                        <span class="list-content"> Email: <a href="info@pftsloan.com"  data-cfemail="d9b0b7bfb699baabbcbdb0adb7b0bebcabb0b8f7bab6b4">info@pftsloan.com</a>
+                                                        <span class="list-content"> Email: <a href="support@pftsloan.com"  data-cfemail="d9b0b7bfb699baabbcbdb0adb7b0bebcabb0b8f7bab6b4">support@pftsloan.com</a>
                                 </span>
                                                     </li>
                                                 </ul>
